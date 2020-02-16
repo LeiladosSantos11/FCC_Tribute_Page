@@ -1,0 +1,99 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1 {
+    color: darkblue;
+    font-size: 100px;
+  justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+h3 {
+   
+    font-size: 50px;
+}
+
+h5 {
+    padding-bottom: 10px;
+}
+.img-fluid {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.home {
+    padding: 10px;
+    display: center;
+    margin: 10px; 
+}
+
+#Anita{
+    font-size: 10px;
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+
+h4 {
+  font-size: 30px;
+}
+p.solid {
+    border-style: solid;
+}
+
+.home {
+    padding: 10px;
+    display: flex;
+    
+}
+#navbarNav {
+    font-size: 20px;
+    color: antiquewhite;
+    background-color:darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    padding: 10px;  
+}
+
+#home2 {
+    margin-top: 10px;
+}
+
+ #lists{
+  
+    padding: 5px;
+    font-size: 20px;
+  
+    padding: 10px;
+    display: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#video {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+   display: flex;
+
+}
+
+iframe{
+    justify-content: center;
+    display: flex;
+}
+
+#Timeline {
+padding-left: 22px;
+padding-top: 25px;
+}
+
+style="background-color: #cbd8e1;
